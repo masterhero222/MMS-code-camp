@@ -1,0 +1,7 @@
+3.1 - ps; top; htop;
+
+3.2 - cd; mkdir MMS/ C/ camp; cp Home *.c MMS/ C/ camp; rm -f *[1-9];
+
+3.3 - cd; cd Desktop; chmod u=rwx, g=rx, o=r;
+
+3,4 - cd; nl source1.c, source2.c; > lineCount
